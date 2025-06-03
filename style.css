@@ -11,3 +11,15 @@ body{
     background-color: lightgray;
     font-family: Arial, sans-serif;
 }
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 20px;
+    border: 1px solid #462525;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
